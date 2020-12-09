@@ -13,7 +13,7 @@ Nosso TAD traz ao desenvolvedor as opçoes de inicializar e destruir o heap, ins
   - int Remover(ElementoHeap* heap, int *totalElementos);
   - void ImprimirChaves(ElementoHeap* heap, int totalElementos).
   
-  Além disso, foi implementada uma estrutura do tipo elemento que constrói o TAD heap; trata-se de uma struct com uma chave, que será o que organizará o vetor, e um ponteiro do tipo void para as informações, que ficarão a critério do programador. Além disso, foi definido um sinônimo para ponteiros do tipo elemento chamado *ElementoHeap*.
+  Além disso, foi implementada uma estrutura do tipo elemento que constrói o TAD heap; trata-se de uma struct com uma chave do tipo inteiro, que será o que organizará o vetor, e um ponteiro do tipo void para as informações, que ficarão a critério do programador. Além disso, foi definido um sinônimo para ponteiros do tipo elemento chamado *ElementoHeap*.
   
   # Considerações finais 
   Toda ajuda e sugestão é muito bem-vinda! Obrigada por ler :D 
